@@ -1,0 +1,6 @@
+Quer se tornar um profissional cheio de oportunidades? Então você está no lugar certo! O curso de Análise e Desenvolvimento de Sistemas da Anhanguera foi recém reformulado para atender às necessidades das maiores empresas de tecnologia do mundo. Todas as disciplinas do curso envolvem o uso de software e atividades práticas que vão preparar você para o mercado de trabalho. O curso se divide em quatro pilares: 
+1. Fundamentos: matemática e toda a parte de lógica; 
+2. Técnico: linguagens e decomposição de problemas; 
+3. Ferramentas de Programação e suas linguagens; 
+4. Cultura: práticas ágeis.
+Além disso, é um curso tecnólogo, e quem se forma na Anhanguera ainda pode contar com quatro especializações na grade curricular: Devops, Mobile, Web e Back-end.
