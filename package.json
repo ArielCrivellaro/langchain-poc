@@ -1,0 +1,16 @@
+{
+  "name": "langchain-poc",
+  "version": "1.0.0",
+  "main": "search.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.6.2",
+    "tsx": "^3.12.10",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.150",
+    "redis": "^4.6.8"
+  }
+}
